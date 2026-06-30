@@ -29,7 +29,7 @@ public:
                 if( node->right) dq.push_back(node->right);
                 level.push_back( node->val);
             }
-            // ans.pop_back();
+           if(!ans.empty()) ans.pop_back();
             ans.push_back( level);
         }
         int s= ans.size();
