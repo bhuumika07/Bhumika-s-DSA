@@ -11,28 +11,17 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root , int &sum)
+    void solve(TreeNode*root, TreeNode* parent , TreeNode* grandparent, int&ans)
     {
-        if( root==NULL) return;
-        if( root->val % 2 ==0)
-        {
-            if( root->left)
-            {
-                if( root->left->left) sum+=( root->left->left->val);
-                if( root->left->right) sum+=( root->left->right->val);
-            }
-            if( root->right)
-            {
-                if( root->right->left) sum+=( root->right->left->val);
-                if( root->right->right) sum+=( root->right->right->val);
-            }
-        } 
-        solve( root->left, sum);
-        solve(root->right, sum);
+        if( !root )return;
+        if(grandparent && grandparent->val%2==0) ans+=root->val;
+
+        solve(root->left, root, parent,ans);
+        solve( root->right, root, parent,ans); 
     }
     int sumEvenGrandparent(TreeNode* root) {
         int ans=0;
-        solve( root, ans);
+        solve(root,NULL,NULL,ans);
         return ans;
         
     }
