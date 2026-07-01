@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-bool flag=1;
+
     bool solve(TreeNode* node1, TreeNode*node2)
     {
         if(!node1 && !node2) return 1;
@@ -21,8 +21,7 @@ bool flag=1;
         return ( node1->val == node2->val);
     }
     bool isSymmetric(TreeNode* root) {
-    flag=0;
-     if(!root) return 0;
+     if(!root) return 1;
      return solve( root->left , root->right);
 
         
