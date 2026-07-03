@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
 |  |
 | ------- |
