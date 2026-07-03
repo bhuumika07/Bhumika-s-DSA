@@ -64,7 +64,6 @@ public:
         while ( !dq.empty() && node )
         {
             int s= dq.size();
-            count++;
             for( int i=0; i<s;i++)
             {
                 node = dq.front();
@@ -87,7 +86,9 @@ public:
                     visited[mpp[node]]=1;
                     // count++;
                 }
+
             }
+            count++;
         }
         return count-1;
 
