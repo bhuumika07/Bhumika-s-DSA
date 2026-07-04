@@ -11,24 +11,15 @@
  */
 class Solution {
 public:
-
     int countNodes(TreeNode* root) {
-        deque<TreeNode*>dq;
-        int count=0;
-        dq.push_back( root );
-        while( !dq.empty() && root )
+        if( !root ) return 0;
+        int left = countNodes( root->left);
+        int right= countNodes( root->right);
+        if( left == right )
         {
-            int s= dq.size();
-            for( int i=0; i<s;i++)
-            {
-                count++;
-                TreeNode* node = dq.front();
-                dq.pop_front();
-                if( node->left) dq.push_back(node->left);
-                if( node->right) dq.push_back( node->right);
-            }
+            return 2*left + 1;
         }
-        return count;
+        return 1+ left + right;
         
     }
 };
