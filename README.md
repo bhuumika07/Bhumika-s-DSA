@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,8 +195,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
