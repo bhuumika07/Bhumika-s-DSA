@@ -38,7 +38,5 @@ public:
             right++;
         }
         return count;
-        
-        
     }
 };
