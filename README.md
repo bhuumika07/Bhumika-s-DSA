@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
