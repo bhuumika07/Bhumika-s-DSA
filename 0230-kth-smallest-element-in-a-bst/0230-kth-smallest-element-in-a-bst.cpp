@@ -11,17 +11,23 @@
  */
 class Solution {
 public:
-    void callMe( TreeNode* root , vector<int>&ans)
+int ans = -1;
+    void callMe( TreeNode* root , int& count , int k)
     {
-        if( !root ) return;
-        callMe(root->left , ans);
-        ans.push_back( root->val);
-        callMe( root->right , ans);
+        if( !root || ans != -1) return ;
+        callMe(root->left , count , k);
+        count++;
+        if( count == k)
+        {
+            ans=root->val;
+            return;
+        }
+       callMe( root->right , count , k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>ans;
-        callMe(root,ans);
-        return ans[k-1];
+       int count=0;
+        callMe(root,count,k);
+        return ans;
         
     }
 };
