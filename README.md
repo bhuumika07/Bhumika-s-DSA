@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -231,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
