@@ -5,13 +5,15 @@ public:
         long long mod=1e9+7;
 
         int n = s.size();
+        //i precomputed the powers to help me in further extraction of the desired number from its prefix. i didnt use pow() function because its slow.
         vector<long long> power(n + 1);
         power[0] = 1;
-
-        for (int i = 1; i <= n; i++) {
-        power[i] = (power[i - 1] * 10) % mod;
+        for (int i=1;i<=n;i++) {
+        power[i] = (power[i-1]*10) % mod;
         }
 
+
+        //precomputed the numbers and their sums for each index.
         vector<long long>prefix;
         vector<pair<long long,int>>Numbers;
         long long sum=0;
@@ -34,8 +36,12 @@ public:
             int end=queries[i][1];
             int finalNum;
             int requiredSum=0;
+            //if the number doesnt start from the very first index , it means it would require some cutting from its front.
+
+
             if( start > 0 )
             {
+                // this length is computed by the idea-- what was required length and what was its actual length since it takes all the number from the start.
                int len =  Numbers[end].second - Numbers[start-1].second;
                long long toMinus = (1LL * Numbers[start - 1].first * power[len]) % mod;
                finalNum = (Numbers[end].first - toMinus + mod ) % mod;  
