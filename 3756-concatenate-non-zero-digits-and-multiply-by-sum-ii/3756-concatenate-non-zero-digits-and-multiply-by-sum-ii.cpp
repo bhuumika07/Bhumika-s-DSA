@@ -13,13 +13,13 @@ public:
         }
 
 
-        //precomputed the numbers and their sums for each index.
+        // i did prefix concatenation :  as i traveresed through the string i build up the numbers and their sum respectively alongside the length of the formed number.
         vector<long long>prefix;
         vector<pair<long long,int>>Numbers;
         long long sum=0;
         long long num=0;
         int count=0;
-        for( int i=0;i<s.size();i++)
+        for( int i=0;i<n;i++)
         {
             if(s[i] !='0')
             {
