@@ -30,6 +30,10 @@ public:
             prefix.push_back(sum);
             Numbers.push_back({num,count});
         }
+        int len;
+        int val;
+        long long toMinus;
+        int totalSum;
         for( int i=0; i<queries.size();i++)
         {
             int start=queries[i][0];
@@ -42,11 +46,11 @@ public:
             if( start > 0 )
             {
                 // this length is computed by the idea-- what was required length and what was its actual length since it takes all the number from the start.
-               int len =  Numbers[end].second - Numbers[start-1].second;
-               long long toMinus = (1LL * Numbers[start - 1].first * power[len]) % mod;
+               len =  Numbers[end].second - Numbers[start-1].second;
+               toMinus = (1LL * Numbers[start - 1].first * power[len]) % mod;
                finalNum = (Numbers[end].first - toMinus + mod ) % mod;  
 
-                int totalSum= prefix[end];
+                totalSum= prefix[end];
                 requiredSum = prefix[end] - prefix[start-1]; 
             }
             else
@@ -54,7 +58,7 @@ public:
                 finalNum=Numbers[end].first;
                 requiredSum= prefix[end];
             }
-            int val = (1LL*finalNum*requiredSum)%mod;
+            val = (1LL*finalNum*requiredSum)%mod;
             ans.push_back( val);
         }
         return ans;
