@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
 |  |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
