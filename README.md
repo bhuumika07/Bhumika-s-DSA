@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
