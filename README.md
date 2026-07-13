@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0113-path-sum-ii) |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Stack
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
