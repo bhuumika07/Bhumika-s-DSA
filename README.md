@@ -334,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
