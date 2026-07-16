@@ -2,40 +2,34 @@ class Solution {
 public:
 
     int minSwaps(vector<int>& nums)
+{
+    vector<int> sorted = nums;
+    sort(sorted.begin(), sorted.end());
+
+    unordered_map<int,int> pos;
+
+    for(int i=0;i<nums.size();i++)
+        pos[nums[i]] = i;
+
+    int swaps = 0;
+
+    for(int i=0;i<nums.size();i++)
     {
-        int n = nums.size();
+        if(nums[i] == sorted[i])
+            continue;
 
-        vector<pair<int,int>> v;
+        swaps++;
 
-        for(int i=0;i<n;i++)
-            v.push_back({nums[i],i});
+        int idx = pos[sorted[i]];
 
-        sort(v.begin(),v.end());
+        pos[nums[i]] = idx;
+        pos[sorted[i]] = i;
 
-        vector<bool> vis(n,false);
-
-        int swaps=0;
-
-        for(int i=0;i<n;i++)
-        {
-            if(vis[i] || v[i].second==i)
-                continue;
-
-            int cycle=0;
-            int j=i;
-
-            while(!vis[j])
-            {
-                vis[j]=true;
-                j=v[j].second;
-                cycle++;
-            }
-
-            swaps+=cycle-1;
-        }
-
-        return swaps;
+        swap(nums[i], nums[idx]);
     }
+
+    return swaps;
+}
 
     int minimumOperations(TreeNode* root) {
 
