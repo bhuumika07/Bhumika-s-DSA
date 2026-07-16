@@ -11,27 +11,30 @@
  */
 class Solution {
 public:
-    void getit( TreeNode* root , vector<int>&inorder)
+TreeNode* prev=NULL;
+TreeNode* first=NULL;
+TreeNode* last=NULL;
+TreeNode* middle=NULL;
+    void doit( TreeNode* root)
     {
         if(!root) return;
-        getit(root->left, inorder);
-        inorder.push_back(root->val);
-        getit(root->right,inorder);
-    }
-    void fixit( TreeNode* root , vector<int>&inorder , int &idx)
-    {
-        if(!root || idx==inorder.size()) return;
-        fixit(root->left,inorder,idx);
-        root->val = inorder[idx++];
-        fixit(root->right, inorder,idx);
-
+        doit(root->left);
+        if(prev != NULL && root->val < prev->val)
+        {
+            if( first == NULL)
+            {
+                first=prev;
+                middle=root;
+            }
+            else last=root;
+        }
+        prev=root;
+        doit( root->right);
     }
     void recoverTree(TreeNode* root) {
-        vector<int>inorder;
-        getit(root,inorder);
-        sort(inorder.begin() , inorder.end());
-        int idx=0;
-        fixit(root,inorder,idx);
+        doit(root);
+        if( first && last) swap( first->val , last->val);
+        else if( first && middle ) swap(first->val, middle->val);
         
     }
 };
