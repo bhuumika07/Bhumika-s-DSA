@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1609-even-odd-tree) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1609-even-odd-tree) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 ## Sorting
 |  |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
