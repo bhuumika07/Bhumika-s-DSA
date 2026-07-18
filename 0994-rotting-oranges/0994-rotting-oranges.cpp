@@ -5,6 +5,7 @@ public:
         int n=grid.size();
         int m=grid[0].size();
         vector<vector<bool>> visited(n, vector<bool>(m,false));
+        int cnt=0;
         // first i will store all the rotten oranges.
         for( int i=0; i<n;i++)
         {
@@ -15,6 +16,7 @@ public:
                     q.push( {{i,j},0});
                     visited[i][j]=1;
                 }
+                if(grid[i][j]==1) cnt++;
             }
         }
         int drow[] = {-1, 0, 1, 0};
@@ -34,7 +36,8 @@ public:
                int ncol= col + dcol[i];
                if(nrow >=0 && nrow<n && ncol >=0 && ncol<m && !visited[nrow][ncol] && grid[nrow][ncol]==1)
                {
-                grid[nrow][ncol]=2;
+                // grid[nrow][ncol]=2;
+                cnt--;
                 visited[nrow][ncol]=1;
                 q.push( {{nrow,ncol}, t+1});
                }
@@ -42,13 +45,14 @@ public:
             }
         }
 
-        for( int i=0; i<n;i++)
-        {
-            for( int j=0; j<m;j++)
-            {
-                if( grid[i][j]==1) return -1;
-            }
-        }
+        // for( int i=0; i<n;i++)
+        // {
+        //     for( int j=0; j<m;j++)
+        //     {
+        //         if( grid[i][j]==1) return -1;
+        //     }
+        // }
+        if( cnt != 0) return -1;
 
         return ans;
     }
