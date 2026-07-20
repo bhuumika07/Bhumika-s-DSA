@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 ## Sorting
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 ## Topological Sort
