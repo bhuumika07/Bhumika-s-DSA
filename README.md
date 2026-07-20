@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0226-invert-binary-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0226-invert-binary-tree) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
