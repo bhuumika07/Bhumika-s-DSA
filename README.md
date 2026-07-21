@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
