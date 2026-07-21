@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0547-number-of-provinces) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Matrix
 |  |
 | ------- |
