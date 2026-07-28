@@ -1,43 +1,34 @@
 class Solution {
 public:
-
-    bool dfs( int node , vector<vector<int>>&adj ,vector<bool> &visited , vector<bool >&inPath)
-    {
-        visited[node]=1;
-        inPath[node]=1;
-        for( auto it : adj[node])
-        {
-            if( !visited[it] )
-            {
-                if( dfs( it , adj , visited , inPath)) return 1;
-            }
-            else if( inPath[it]) return 1;
-        }
-        inPath[node]=0;
-        return 0;
-    }
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // lets build an adjancey list first.
+    bool canFinish(int numCourses, vector<vector<int>>& pre) {
+        vector<int> indegree(numCourses, 0);
         vector<vector<int>>adj(numCourses);
-        for( int i=0; i<prerequisites.size(); i++)
+        for( int i=0; i<pre.size();i++)
         {
-            int todo = prerequisites[i][0];
-            int req = prerequisites[i][1];
-
-            adj[todo].push_back(req);
+            adj[pre[i][1]].push_back(pre[i][0]);
+            indegree[pre[i][0]]++;
+            if( pre[i][0] == pre[i][1]) return 0;
         }
-
-       vector<bool> visited(numCourses, false);
-       vector<bool> inPath(numCourses, false);
-
-        for( int i = 0; i<numCourses; i++)
+        queue<int>q;
+        for( int i=0; i<numCourses;i++)
         {
-            if(!visited[i])
+            if( indegree[i] == 0 ) q.push(i);
+
+        }
+        if( q.empty() )return 0;
+        int count=0;
+        while(!q.empty())
+        {
+            int node = q.front();
+            q.pop();
+            count++;
+            for( auto it : adj[node])
             {
-                if( dfs(i , adj , visited , inPath) ) return 0;
+                indegree[it]--;
+                if( indegree[it] == 0) q.push(it);
             }
         }
-        return 1;
+        return count == numCourses;
         
     }
 };
