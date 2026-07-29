@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -538,4 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
