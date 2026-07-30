@@ -2,17 +2,15 @@ class Solution {
 public:
   
     int minimumPushes(string word) {
-        unordered_map<char,int>store;
-        string str="";
+        vector<int>freq(26,0);
         for( int i=0; i<word.size();i++)
         {
-            if(store.find( word[i]) == store.end()) str+=word[i];
-            store[word[i]]++;
+           freq[ word[i]-'a']++;
         }
         vector<int>vec;
-        for( auto it : store )
+        for( int i=0; i<26;i++)
         {
-            vec.push_back(it.second);
+            if( freq[i] > 0) vec.push_back( freq[i]);
         }
         sort( vec.begin(), vec.end(), greater<int>());
         int count=0;
