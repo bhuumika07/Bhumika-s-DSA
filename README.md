@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
+| [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
