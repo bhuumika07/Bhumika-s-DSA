@@ -1,28 +1,52 @@
 class Solution {
 public:
-    void dfs( int src , int node , vector<vector<int>>&adj , vector<bool>&visited , vector<vector<int>>&ans)
-    {
-        visited[node]=1;
-        if( src != node) ans[node].push_back( src );
-
-        for( auto it : adj[node])
-        {
-            if(!visited[it]) dfs( src , it , adj , visited , ans);
-        }
-    }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-        vector<vector<int>>adj(n);
+        // another approach is topological sort
+        vector<vector<int>>graph(n);
+        vector<int>indegree(n,0);
+
         for( int i=0; i<edges.size();i++)
         {
-            adj[edges[i][0]].push_back(edges[i][1]);
+            graph[ edges[i][0]].push_back( edges[i][1]);
+            indegree[ edges[i][1] ]++;
         }
-        vector<vector<int>>ans(n);
+
+        queue<int>q;
         for( int i=0; i<n;i++)
         {
-            vector<bool>visited(n);
-            dfs( i , i , adj , visited , ans);
+            if( indegree[i] == 0) q.push(i);
         }
+
+        vector<set<int>>anc(n);
+
+        while(!q.empty())
+        {
+            int node = q.front();
+            q.pop();
+
+            for( int i : graph[node])
+            {
+                anc[i].insert(node);
+
+                for( auto it : anc[node])
+                {
+                    anc[i].insert(it);
+                }
+                indegree[i]--;
+
+                if( indegree[i]==0) q.push(i);
+            }
+        }
+       vector<vector<int>> ans;
+
+        for (auto &st : anc)
+        {
+            ans.push_back(vector<int>(st.begin(), st.end()));
+        }
+
+
         return ans;
+
         
     }
 };
