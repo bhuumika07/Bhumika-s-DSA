@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
