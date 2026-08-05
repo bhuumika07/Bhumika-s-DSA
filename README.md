@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2392-build-a-matrix-with-conditions) |
+| [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
