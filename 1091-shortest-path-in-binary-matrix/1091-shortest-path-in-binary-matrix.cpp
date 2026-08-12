@@ -15,6 +15,7 @@ public:
             int r1 = pq.top().second.first;
             int c1 = pq.top().second.second;
             pq.pop();
+            if( reached[rsize-1][csize-1] < dis) return reached[rsize-1][csize-1];
             if( r1 == rsize-1 && c1==csize-1) return dis;
             for(int i=0; i<8; i++)
             {
