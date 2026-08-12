@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
+| [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2392-build-a-matrix-with-conditions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2392-build-a-matrix-with-conditions) |
@@ -630,4 +633,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
