@@ -18,6 +18,7 @@ public:
             int dis = info.first;
             int node = info.second;
             pq.pop();
+            if(dist[node] < dis)continue;
             for( auto it : adj[node])
             {
                 int n = it.first;
