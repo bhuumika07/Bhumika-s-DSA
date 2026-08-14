@@ -1,25 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
-        vector<vector<int>>ans;
-        queue<pair<vector<int>,int>> q;
-        q.push({{0},0});
-        int n=graph.size();
-        while(!q.empty())
+    vector<vector<int>>ans;
+    vector<int>path;
+    void dfs( int node , vector<vector<int>>&graph)
+    {
+        path.push_back( node );
+        if( node == graph.size() - 1) ans.push_back(path);
+        else
         {
-            auto it = q.front();
-            q.pop();
-            vector<int>temp=it.first;
-            int node = it.second;
-            if( node == n-1 ) ans.push_back( temp);
-            for( auto i : graph[node])
+            for( auto it : graph[node])
             {
-                temp.push_back(i);
-                q.push({temp,i});
-                temp.pop_back();
+                dfs( it , graph);
             }
         }
+        path.pop_back();
+    }
+    vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
+        dfs(0, graph);
         return ans;
+       
         
     }
 };
