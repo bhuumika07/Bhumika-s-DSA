@@ -12,7 +12,7 @@ public:
             int dis = pq.top().first;
             int n = pq.top().second;
             pq.pop();
-
+            if(dis > dist[n]) continue;
             for( auto it : graph[n])
             {
                 int n1 = it.first;
