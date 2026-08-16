@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
+| [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
+| [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
