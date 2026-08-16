@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -713,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Memoization
+|  |
+| ------- |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
