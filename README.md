@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2392-build-a-matrix-with-conditions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
