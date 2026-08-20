@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Iterator
 |  |
