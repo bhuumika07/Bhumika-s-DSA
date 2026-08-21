@@ -59,7 +59,7 @@ class DisjointSet
     
         for( int i=0; i<temp.size(); i++)
         {
-            if( i == ds.findParent(i))
+            if( i == temp[i])
             {
                 count++;
             }
