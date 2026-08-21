@@ -1,36 +1,71 @@
 class Solution {
 public:
-    void dfs( int node , vector<vector<int>>&adj , vector<bool>&visited , int &count)
-    {
-        if( !visited[node]) count++;
-        visited[node]=1;
-        for( auto it : adj[node])
-        {
-            if(!visited[it]) 
-            {
-                visited[it]=1;
-                dfs( it , adj , visited , count);
-            }
-        }
+class DisjointSet
+{
+    public:
 
+    vector<int>Parent;
+    vector<int>size;
+    
+    DisjointSet( int n)
+    {
+        Parent.resize(n);
+        size.resize(n,1);
+        for( int i=0; i<n;i++) Parent[i]=i;
+    }
+    int findParent( int node)
+    {
+        if( node == Parent[node]) return node;
+        return Parent[node]=findParent(Parent[node]);
+    }
+    void UnionBySize( int a , int b)
+    {
+        int ulp_a = findParent(a);
+        int ulp_b = findParent(b);
+        if( ulp_a == ulp_b) return;
+        int sizea = size[ulp_a];
+        int sizeb = size[ulp_b];
+        if( sizea < sizeb)
+        {
+            Parent[ulp_a] = ulp_b;
+            size[ulp_b]+=size[ulp_a];
+        }
+        else if( sizeb < sizea)
+        {
+            Parent[ulp_b]=ulp_a;
+            size[ulp_a]+=size[ulp_b];
+        }
+        else
+        {
+            Parent[ulp_a] = ulp_b;
+            size[ulp_b]+=size[ulp_a];
+        }
 
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        vector<bool>visited(isConnected.size(), false);
-        int count=0;
-        // will make an adjaceny list first.
-        vector<vector<int>>adj;
-        for( int i=0; i<isConnected.size();i++)
+};
+    int findCircleNum(vector<vector<int>>& given) {
+        DisjointSet ds(given.size());
+        for( int i=0; i<given.size();i++)
         {
-            vector<int>related;
-            for( int j=0; j<isConnected.size();j++)
+            for( int j=0; j<given[0].size();j++)
             {
-                if( i!=j && isConnected[i][j]) related.push_back(j);
+                if( given[i][j] == 1) ds.UnionBySize(i,j);
             }
-            adj.push_back(related);
         }
-        int node=0;
-        for( int i=0; i<adj.size();i++) dfs( i , adj , visited , count);
+        int count=0;
+        
+        vector<int>temp;
+        temp=ds.Parent;
+    
+        for( int i=0; i<temp.size(); i++)
+        {
+            if( i == ds.findParent(i))
+            {
+                count++;
+            }
+        }
         return count;
+
+        
     }
 };
