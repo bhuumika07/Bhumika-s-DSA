@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0833-find-and-replace-in-string) |
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
 | [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
+| [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
