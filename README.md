@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
