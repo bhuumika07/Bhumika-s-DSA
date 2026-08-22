@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -785,4 +789,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
