@@ -1,10 +1,8 @@
 class Disjoint {
     public:
     vector<char>parent;
-    vector<int>size;
     Disjoint( int n)
     {
-        size.resize(n,1);
         parent.resize(n);
         for( int i='a'; i<='z';i++)
         {
@@ -17,7 +15,7 @@ class Disjoint {
         return parent[ letter-'a'] = findParent( parent[letter-'a']);
     }
 
-    void unionBysize( char a , char b)
+    void unionByorder( char a , char b)
     {
         char ulp_a = findParent( a );
         char ulp_b = findParent( b );
@@ -41,7 +39,7 @@ public:
        // firstly i will do the union or made chunks of the related charcaters.
        for( int i = 0; i<s1.size(); i++)
        {
-        dj.unionBysize(s1[i] , s2[i]);
+        dj.unionByorder(s1[i] , s2[i]);
        }
         string ans="";
         for( int i=0; i<baseStr.size(); i++)
