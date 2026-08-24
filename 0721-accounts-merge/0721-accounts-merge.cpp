@@ -43,22 +43,19 @@ public:
         int k = 0;
        for (int i = 0; i < accounts.size(); i++)
         {
-            for (int j = 1; j < accounts[i].size(); j++)
+            for (int j = 1; j < accounts[i].size() ; j++)
             {
-            // Register this email if it is new
-            if (mail.find(accounts[i][j]) == mail.end())
-            {
-                mail[accounts[i][j]] = k++;
-            }
+                if (mail.find(accounts[i][j]) == mail.end())
+                {
+                    mail[accounts[i][j]] = k++;
+                }
+                if (j > 1)
+                {
+                    int a = mail[accounts[i][j - 1]];
+                    int b = mail[accounts[i][j]];
 
-            // Connect it with the previous email
-            if (j > 1)
-            {
-                int a = mail[accounts[i][j - 1]];
-                int b = mail[accounts[i][j]];
-
-                dj.unionBysize(a, b);
-            }
+                    dj.unionBysize(a, b);
+                }
             }
         }
         unordered_map<int,set<string>>children;
