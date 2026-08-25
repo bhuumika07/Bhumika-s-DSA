@@ -1,83 +1,107 @@
+class Disjoint
+{
+    public:
+    vector<int>parent;
+    vector<int>size;
+    Disjoint( int n)
+    {
+        parent.resize(n);
+        size.resize(n,1);
+        for( int i=0; i<n;i++) parent[i]=i;
+    }
+    int findParent( int node )
+    {
+        if( node == parent[node]) return node;
+        return parent[node]= findParent( parent[node]);
+    }
+    void unionBysize( int a, int  b)
+    {
+        int ulp_a = findParent(a);
+        int ulp_b = findParent(b);
+        if( ulp_a == ulp_b) return;
+        int size1 = size[ulp_a];
+        int size2 = size[ulp_b];
+        if( size1 < size2)
+        {
+            size[ulp_b]+=size[ulp_a];
+            parent[ulp_a] = parent[ulp_b];
+        }
+        else
+        {
+            size[ulp_a]+=size[ulp_b];
+            parent[ulp_b]=parent[ulp_a];
+        }
+    }
+};
 class Solution {
 public:
-    int rows[4]={-1,0,1,0};
-    int cols[4]={0,-1,0,1};
-    int components( int row , int col , vector<vector<int>>&grid ,int s)
-    {
-        int count=0;
-        int rsize = grid.size();
-        int csize = grid[0].size();
-        queue<pair<int,int>> q;
-        q.push({row,col});
-        grid[row][col]=s;
-        while(!q.empty())
-        {
-            int r1= q.front().first;
-            int c1 = q.front().second;
-            q.pop();
-            count++;
-            for( int i = 0; i<4; i++)
-            {
-                int nrow = rows[i] + r1;
-                int ncol = cols[i] + c1;
-
-                if( nrow >=0 && nrow <rsize && ncol >=0 && ncol < csize && grid[nrow][ncol]==1)
-                {
-                    grid[nrow][ncol]=s;
-                    q.push( {nrow , ncol});
-                }
-            }
-        }
-        return count;
-
-    }
     int largestIsland(vector<vector<int>>& grid) {
-        int rsize = grid.size();
-        int csize = grid[0].size();
-        int s=2;
-        int size=0;
-        unordered_map<int,int>mark;
-        for( int i=0; i<rsize ; i++)
+        int n = grid.size();
+        Disjoint dj(n*n);
+        int rows[]={0,-1,1,0};
+        int cols[]={-1,0,0,1};
+        for( int i=0;i<n;i++)
         {
-            for( int j=0;j<csize;j++)
+            for(int j=0;j<n;j++)
             {
-                if(grid[i][j] == 1) 
+                if( grid[i][j]==0) continue;
+
+                int node = i*n + j;
+                for( int k=0;k<4;k++)
                 {
-                    size = components(i,j,grid,s); 
-                    mark[s]=size;
-                    s++;
-                }
-            }
-        }
-        bool found=0;
-        int maxi=0;
-        for( int i=0; i<rsize;i++)
-        {
-            for( int j=0; j<csize; j++)
-            {
-                if(grid[i][j] == 0)
-                {
-                    found=1;
-                    int sum=0;
-                    unordered_set<int>put;
-                    for( int k=0; k<4; k++)
+                    int nrow = i + rows[k];
+                    int ncol = j+ cols[k];
+                    if( nrow >=0 && nrow <n && ncol >=0 && ncol <n && grid[nrow][ncol] == 1)
                     {
-                        int nrow = i+rows[k];
-                        int ncol =j + cols[k];
-                        if(nrow >=0 && nrow < rsize && ncol >=0 && ncol < csize)
-                        {
-                            if( put.find( grid[nrow][ncol]) == put.end())
-                            {
-                                put.insert(grid[nrow][ncol]);
-                                sum+=mark[grid[nrow][ncol]];
-                            }
-                        }
-                    }  
-                    maxi=max(maxi , sum+1); 
+                        int neighbor = nrow*n + ncol;
+                        dj.unionBysize(node , neighbor);
+                    }
                 }
             }
         }
-        if( !found) return size;
-        return maxi;
+         int ans = 0;
+
+        // Step 2: Try converting every 0 into 1
+        for (int r = 0; r < n; r++) {
+            for (int c = 0; c < n; c++) {
+
+                if (grid[r][c] == 1)
+                    continue;
+
+                set<int> components;
+
+                for (int k = 0; k < 4; k++) {
+
+                    int nr = r + rows[k];
+                    int nc = c + cols[k];
+
+                    if (nr >= 0 && nr < n &&
+                        nc >= 0 && nc < n &&
+                        grid[nr][nc] == 1) {
+
+                        int neighbor = nr * n + nc;
+
+                        components.insert(dj.findParent(neighbor));
+                    }
+                }
+
+                int currentSize = 1;
+
+                for (int parent : components) {
+                    currentSize += dj.size[parent];
+                }
+
+                ans = max(ans, currentSize);
+            }
+        }
+
+        // Handles the case where there is no 0
+        for (int i = 0; i < n * n; i++) {
+            if (dj.findParent(i) == i)
+                ans = max(ans, dj.size[i]);
+        }
+
+        return ans;
+        
     }
 };
