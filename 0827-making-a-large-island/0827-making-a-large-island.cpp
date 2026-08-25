@@ -2,13 +2,12 @@ class Solution {
 public:
     int rows[4]={-1,0,1,0};
     int cols[4]={0,-1,0,1};
-    int components( int row , int col , vector<vector<int>>&grid , vector<vector<bool>>&visited,int s)
+    int components( int row , int col , vector<vector<int>>&grid ,int s)
     {
         int count=0;
         int rsize = grid.size();
         int csize = grid[0].size();
         queue<pair<int,int>> q;
-        visited[row][col]=1;
         q.push({row,col});
         grid[row][col]=s;
         while(!q.empty())
@@ -22,9 +21,8 @@ public:
                 int nrow = rows[i] + r1;
                 int ncol = cols[i] + c1;
 
-                if( nrow >=0 && nrow <rsize && ncol >=0 && ncol < csize && !visited[nrow][ncol] && grid[nrow][ncol]==1)
+                if( nrow >=0 && nrow <rsize && ncol >=0 && ncol < csize && grid[nrow][ncol]==1)
                 {
-                    visited[nrow][ncol]=1;
                     grid[nrow][ncol]=s;
                     q.push( {nrow , ncol});
                 }
@@ -36,17 +34,16 @@ public:
     int largestIsland(vector<vector<int>>& grid) {
         int rsize = grid.size();
         int csize = grid[0].size();
-        vector<vector<bool>>visited(rsize , vector<bool>(csize,0));
-        int s=1;
+        int s=2;
         int size=0;
         unordered_map<int,int>mark;
         for( int i=0; i<rsize ; i++)
         {
             for( int j=0;j<csize;j++)
             {
-                if(!visited[i][j] && grid[i][j] == 1) 
+                if(grid[i][j] == 1) 
                 {
-                    size = components(i,j,grid , visited,s); 
+                    size = components(i,j,grid,s); 
                     mark[s]=size;
                     s++;
                 }
