@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
