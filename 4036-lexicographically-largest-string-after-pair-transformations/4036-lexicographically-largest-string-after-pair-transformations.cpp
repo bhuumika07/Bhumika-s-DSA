@@ -13,18 +13,14 @@ public:
       {
         int value = nums[i];
         string str="";
-     
-           while (value > 0) {
-                int idx = upper_bound(
-                    powers.begin(),
-                    powers.end(),
+        while (value > 0) 
+        {
+             int idx = upper_bound(powers.begin(),powers.end(),
                     value
                 ) - powers.begin() - 1;
-
                 value -= powers[idx];
                 str += ('a' + idx);
             }
-        
         ans.push_back(str);
       }
       return ans;
