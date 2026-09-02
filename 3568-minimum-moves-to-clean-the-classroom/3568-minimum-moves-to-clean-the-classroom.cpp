@@ -1,50 +1,75 @@
 class Solution {
 public:
-    int r[4] = {0 , 1 , 0 , -1};
-    int c[4] = {1 , 0 , -1 , 0};
-    int minMoves(vector<string>& classroom, int energy) {
-        int m = classroom.size() , n = classroom[0].size() , countLitter = 0 , startx = -1 , starty = -1;
-        vector<vector<int>> markLitter(m , vector<int>(n , -1));
-        for(int i = 0 ; i<m ; i++){
-            for(int j = 0 ; j<n ; j++){
-                if(classroom[i][j] == 'S'){
-                    startx = i;
-                    starty = j;
+    int minMoves(vector<string>& room, int energy) {
+        int rows[]={-1,0,1,0};
+        int cols[]={0,-1,0,1};
+        int rsize = room.size();
+        int csize = room[0].size();
+        int a;int b;
+        vector<vector<int>>ids(rsize , vector<int>(csize,-1));
+        int cnt=0;
+        for( int i=0; i<rsize;i++)
+        {
+            for( int j=0;j<csize;j++)
+            {
+                if(room[i][j] == 'S')
+                {
+                    a=i;
+                    b=j;
                 }
-                if(classroom[i][j] == 'L') markLitter[i][j] = countLitter++;
+                else if( room[i][j] =='L') ids[i][j] = cnt++;
             }
         }
-        int allLittersMarkedMask = (1 << countLitter) - 1;
-        vector<vector<vector<vector<bool>>>> visited(m , vector<vector<vector<bool>>>(n , vector<vector<bool>>(energy+1 , vector<bool>(1 << countLitter , false))));
-        queue<tuple<int,int,int,int>> qt;
-        qt.push({startx , starty , energy , 0});
-        visited[startx][starty][energy][0] = true;
-        int cost = 0;
-        while(!qt.empty()){
-            int s = qt.size();
-            for(int i = 0 ; i<s ; i++){
-                auto [currx , curry , currEnergy , currMask] = qt.front();
-                qt.pop();
-                if(currMask == allLittersMarkedMask) return cost;
-                if(currEnergy == 0) continue;
-                for(int j = 0 ; j<4 ; j++){
-                    int newx = currx + r[j] , newy = curry + c[j];
-                    if(newx < 0 || newy < 0 || newx >= m || newy >= n) continue;
-                    if(classroom[newx][newy] == 'X') continue;
-                    int newEnergy = classroom[newx][newy] == 'R' ? energy : currEnergy-1;
-                    if(newEnergy == 0 && classroom[newx][newy] != 'L') continue;
-                    int newMask = currMask;
-                    if(classroom[newx][newy] == 'L'){
-                        int bit = markLitter[newx][newy];
-                        newMask = newMask | (1 << bit);
+        if( cnt == 0) return 0;
+        int maskedNum = (1 << cnt ) - 1;
+       vector<vector<vector<vector<bool>>>> visited(
+        rsize,
+        vector<vector<vector<bool>>>(csize,
+        vector<vector<bool>>(
+            energy + 1,
+            vector<bool>(1 << cnt, false)
+        )
+    )
+);
+
+        queue< tuple<int , int , int , int> > q;
+        q.push( {a,b,energy,0});
+
+        int cost=0;
+        while(!q.empty())
+        {
+            int s = q.size();
+            for(int i=0;i<s;i++)
+            {
+                auto [r1,c1, energyLeft ,collected] = q.front();
+                q.pop();
+                if( collected == maskedNum) return cost;
+                if(energyLeft == 0) continue;
+                for( int i=0;i<4;i++)
+                {
+                    int nrow = r1 + rows[i];
+                    int ncol = c1 + cols[i];
+
+                    if( nrow >=0 && nrow < rsize && ncol >=0 && ncol < csize)
+                    {
+                        int newmask=collected;
+                        int newenergy = energyLeft-1;
+                        if( room[nrow][ncol] == 'R') newenergy = energy;
+                        else if( room[nrow][ncol] == 'L')
+                        {
+                            int id = ids[nrow][ncol];
+                            newmask = (newmask) | ( 1 << id);
+                        }
+                        else if( room[nrow][ncol] =='X') continue;
+                        if( visited[nrow][ncol][newenergy][newmask]) continue;
+                        q.push( {nrow , ncol , newenergy, newmask});
+                        visited[nrow][ncol][newenergy][newmask]=1;
                     }
-                    if(visited[newx][newy][newEnergy][newMask]) continue;
-                    qt.push({newx , newy , newEnergy , newMask});
-                    visited[newx][newy][newEnergy][newMask] = true;
                 }
+               
             }
             cost++;
         }
-        return -1;
+    return -1;
     }
 };
