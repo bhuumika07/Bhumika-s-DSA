@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
+| [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1034-coloring-a-border) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1765-map-of-highest-peak) |
