@@ -19,7 +19,7 @@ public:
             int val = temp[i]*freq[temp[i]];
             if(temp[i] != temp[i-1] + 1)
             {
-                ans = max( last , secondLast) + val;
+                ans = last + val;
             }
             else
             {
