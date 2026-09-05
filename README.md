@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -626,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -697,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Union-Find
 |  |
