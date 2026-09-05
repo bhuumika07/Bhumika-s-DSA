@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[100005];
+    
     int deleteAndEarn(vector<int>& nums) {
         unordered_map<int,int>freq;
         for(int x: nums) freq[x]++;
@@ -9,22 +9,26 @@ public:
         sort(temp.begin(), temp.end());
         if( temp.size() == 1) return temp[0]*freq[temp[0]];
         
-        dp[0] = temp[0] * freq[temp[0]];
-        if(temp[0]+1 == temp[1]) dp[1] = max(dp[0] , temp[1]*freq[temp[1]]);
-        else dp[1] = dp[0] + temp[1]*freq[temp[1]];
+        int secondLast = temp[0] * freq[temp[0]];
+        int last=0;
+        if(temp[0]+1 == temp[1]) last = max(secondLast, temp[1]*freq[temp[1]]);
+        else last = secondLast + temp[1]*freq[temp[1]];
+        int ans=max( last , secondLast);
         for(int i=2; i<temp.size();i++)
         {
             int val = temp[i]*freq[temp[i]];
             if(temp[i] != temp[i-1] + 1)
             {
-                dp[i] = max( dp[i-1] ,dp[i-2]) + val;
+                ans = max( last , secondLast) + val;
             }
             else
             {
-                dp[i]=max( dp[i-1] , val + dp[i-2]);
+                ans=max( last , val + secondLast);
             }
+            secondLast =last;
+            last=ans;
         }
-        return dp[temp.size()-1];
+        return ans;
 
     }
 };
