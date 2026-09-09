@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long dp[1000005];
+    long long dp[100005];
     long long mod =1e9+7;
     int countGoodStrings(int low, int high, int zero, int one) {
         memset(dp,0,sizeof(dp));
