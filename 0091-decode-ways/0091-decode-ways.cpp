@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[100005];
+    int dp[1000];
     int doit( string&s , int idx)
     {
        // taking one by one
