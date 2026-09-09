@@ -1,15 +1,16 @@
 class Solution {
 public:
-long long dp[10005];
 long long  mod = 1e9 + 7;
     int countHousePlacements(int n) {
-        memset( dp , -1, sizeof(dp));
-        dp[0]=1;
-        dp[1] = 2;
+        long long nn =1;
+        long long n1 = 2;
+        long long ans = 2;
         for( int i=2; i<=n;i++)
         {
-            dp[i] = (dp[i-1] + dp[i-2]) % mod;
+            ans = (n1+nn) % mod;
+            nn = n1;
+            n1=ans;
         }
-        return (dp[n]*dp[n])%mod;
+        return (ans*ans)%mod;
     }
 };
