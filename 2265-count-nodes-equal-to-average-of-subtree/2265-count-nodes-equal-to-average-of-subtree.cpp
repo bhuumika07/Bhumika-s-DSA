@@ -12,22 +12,19 @@
 class Solution {
 public:
     int ans=0;
-    pair<int,int>solve(TreeNode* root)
+    pair<int,int> doit( TreeNode* root)
     {
-        if(!root) return {0,0};
-        pair<int,int>left=solve(root->left);
-        pair<int,int>right=solve(root->right);
-        int length= left.first + right.first + 1;
-        int sum= left.second + right.second + root->val;
-        if( sum/length == root->val) ans++;
-
-        return {length,sum};
+        if( root == NULL) return {0,0};
+        auto [leftlen, leftvalue ] = doit(root->left);
+        auto  [rightlen, rightvalue] = doit( root->right);
+        int total = leftlen + rightlen + 1;
+        int avgSum = leftvalue + rightvalue + root->val;
+        if( avgSum / total == root->val ) ans++;
+        return {total,avgSum};
+       
     }
-    
-
     int averageOfSubtree(TreeNode* root) {
-        solve(root);
+        doit(root);
         return ans;
-        
     }
 };
