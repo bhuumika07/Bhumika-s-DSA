@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0740-delete-and-earn) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
@@ -934,4 +937,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
