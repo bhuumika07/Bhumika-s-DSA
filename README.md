@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0115-distinct-subsequences) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bipartite Graph
 |  |
