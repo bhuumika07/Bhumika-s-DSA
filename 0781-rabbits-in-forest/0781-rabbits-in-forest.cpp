@@ -8,18 +8,12 @@ public:
         {
             int x = it.first;
             int y = it.second;
-            // if( x == 0) count+=y;
-            // else if( y <= x) count+= x+1;
-            // else
-            // {
-               if( y%(x+1) == 0) count+=y;
-               else
-               {
+            if( y%(x+1) == 0) count+=y;
+            else
+            {
                 int rem = y%(x+1);
                 count+= y + (x+1-rem);
-               }
-            // }
-            
+            }
         }
         return count;
         
