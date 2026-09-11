@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
@@ -940,9 +943,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
