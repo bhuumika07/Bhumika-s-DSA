@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int dp[1000];
-    int doit( string&s , int idx)
-    {
-       // taking one by one
-       if( idx == s.size()) return 1;
-       if( s[idx] == '0') return 0;
-       if( dp[idx] != -1) return dp[idx];
-       int singlee = doit( s, idx+1);
-       int doublee=0;
-       if( idx+1 < s.size())
-       {
-            int num =s[idx]-'0';
-            num = num*10 + s[idx+1] -'0';
-            if(num <= 26 )  doublee = doit( s, idx+2);;
-        } 
-    
-        return dp[idx] = singlee + doublee;
-    }
     int numDecodings(string s) {
-        memset( dp , -1 , sizeof(dp));
-        return doit(s,0);
+        int dp[105];
+        int n = s.size();
+        dp[n]=1;
+        for( int i=n-1; i>=0;i--)
+        {
+            if(s[i]=='0')
+            {
+                dp[i]=0;
+                continue;
+            }
+            dp[i] = dp[i+1];
+
+            if( i+1 < n)
+            {
+                int num = (s[i] - '0')*10 + (s[i+1]-'0');
+                if( num >=10 && num <=26) dp[i]+=dp[i+2];
+            }
+        }
+        return dp[0];
     }
 };
