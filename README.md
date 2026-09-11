@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0991-broken-calculator) |
 | [1927-sum-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1927-sum-game) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0740-delete-and-earn) |
+| [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [0833-find-and-replace-in-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0833-find-and-replace-in-string) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
+| [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [0827-making-a-large-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0827-making-a-large-island) |
 | [0833-find-and-replace-in-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0833-find-and-replace-in-string) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
