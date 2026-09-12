@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
+| [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2140-solving-questions-with-brainpower](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1992-find-all-groups-of-farmland](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1992-find-all-groups-of-farmland) |
+| [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2140-solving-questions-with-brainpower) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
