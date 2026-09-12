@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long dp[100005];
+    long long dp[30005];
     long long doit( vector<vector<int>>&rides , int idx )
     {
         if(idx == rides.size()) return 0;
