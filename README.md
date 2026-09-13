@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0115-distinct-subsequences) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
