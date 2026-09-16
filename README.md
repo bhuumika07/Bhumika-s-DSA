@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0991-broken-calculator) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1927-sum-game) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bipartite Graph
 |  |
