@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
