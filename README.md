@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Binary Search
 |  |
 | ------- |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Prefix Sum
 |  |
 | ------- |
