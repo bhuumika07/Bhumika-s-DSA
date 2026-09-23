@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
