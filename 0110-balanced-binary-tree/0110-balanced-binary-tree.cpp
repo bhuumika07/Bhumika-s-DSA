@@ -14,7 +14,7 @@ public:
     bool verdict=1;
     int check(TreeNode* root, bool &verdict)
     {
-        if(!root) return 0;
+        if(!root || verdict==0) return 0;
         int left = check( root->left, verdict);
         int right = check( root->right , verdict);
         if( abs( left - right) > 1) verdict=0;
