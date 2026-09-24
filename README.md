@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
@@ -932,11 +935,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Shortest Path
@@ -1058,5 +1063,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
