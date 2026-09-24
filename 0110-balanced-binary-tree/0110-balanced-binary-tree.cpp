@@ -11,21 +11,18 @@
  */
 class Solution {
 public:
-    bool flag=1;
-    int length(TreeNode* root)
+    bool verdict=1;
+    int check(TreeNode* root, bool &verdict)
     {
-        if( !root ) return 0;
-        int left = length( root->left);
-        int right= length( root->right);
-        int diff = abs(right - left) ;
-        if( diff > 1) flag=0;
-        return 1 +max( left, right);
-
+        if(!root) return 0;
+        int left = check( root->left, verdict);
+        int right = check( root->right , verdict);
+        if( abs( left - right) > 1) verdict=0;
+        return 1 + max(left , right);
     }
     bool isBalanced(TreeNode* root) {
-        length(root);
-        return flag;
-
-        
+        bool verdict=1;
+        check(root, verdict);
+        return verdict;
     }
 };
