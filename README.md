@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0931-minimum-falling-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0978-longest-turbulent-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0978-longest-turbulent-subarray) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0835-image-overlap) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0931-minimum-falling-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
