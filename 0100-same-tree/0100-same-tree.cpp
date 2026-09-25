@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    bool check( TreeNode* p , TreeNode*q)
+    bool doit( TreeNode*p , TreeNode* q)
     {
-        if(!p && !q) return 1;
         if(p && !q) return 0;
-        if(!p && q) return 0;
-        if(p->val != q->val) return 0;
-        return (check(p->left,q->left) && check(p->right,q->right));
+        if( !p && q ) return 0;
+        if(!p && !q) return 1;
+        if( p->val != q->val) return 0;
+        return (doit(p->left , q->left) && doit(p->right , q->right));
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        return check(p,q);
+        return doit( p , q);
     }
 };
