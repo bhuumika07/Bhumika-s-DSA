@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0685-redundant-connection-ii) |
+| [0687-longest-univalue-path](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0733-flood-fill) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1065,4 +1068,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
