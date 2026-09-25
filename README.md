@@ -1071,5 +1071,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
