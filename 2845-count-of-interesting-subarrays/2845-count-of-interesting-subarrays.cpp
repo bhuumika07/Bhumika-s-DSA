@@ -13,7 +13,7 @@ public:
             if(nums[i] % modulo == k)
                 prefix++;
 
-            int required = ((prefix - k) % modulo + modulo) % modulo;
+            int required = ((prefix - k)) % modulo;
 
             count += freq[required];
 
