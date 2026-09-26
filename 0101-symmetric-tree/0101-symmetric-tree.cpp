@@ -11,21 +11,16 @@
  */
 class Solution {
 public:
-
-    bool solve(TreeNode* node1, TreeNode*node2)
+    bool doit( TreeNode* p , TreeNode* q)
     {
-        if(!node1 && !node2) return 1;
-        if((node1 && !node2) || (!node1 && node2) ) return 0;
-        if(!(solve(node1->left,node2->right))) return 0;
-        if(!(solve(node1->right,node2->left))) return 0;
-        return ( node1->val == node2->val);
+        if(p && !q) return 0;
+        if(!p && q) return 0;
+        if(!p && !q) return 1;
+        if( p->val != q->val) return 0;
+        return (doit(p->left , q->right) && doit(p->right , q->left));
     }
     bool isSymmetric(TreeNode* root) {
-     if(!root) return 1;
-     return solve( root->left , root->right);
-
-        
-        
+        return doit( root->left , root->right);
         
     }
 };
