@@ -11,39 +11,34 @@
  */
 class Solution {
 public:
-    static bool cmp(pair<int,int>a, pair<int,int>b)
+    static bool cmp( const pair<int,int> a , const pair<int,int> b)
     {
-        if( a.first > b.first) return 0;
-        if(a.first == b.first && a.second > b.second) return 0;
+        if(a.first > b.first) return 0;
+        if(a.first == b.first &&  a.second > b.second) return 0;
         return 1;
     }
-    void solve(TreeNode*root, int row, int col ,map<int,vector<pair<int,int>>>&mpp)
+    void doit( TreeNode* root , int r , int  c ,map< int , vector<pair<int,int> >> &mpp)
     {
-        if( root==NULL) return;
-        solve( root->left, row+1, col-1, mpp);
-        solve(root->right, row+1, col+1,mpp);
-        mpp[col].push_back({row,root->val});
+        if(!root) return ;
+        doit( root->left , r+1, c-1 , mpp);
+        doit( root->right , r+1, c+1 , mpp);
+        mpp[c].push_back( {r , root->val});
     }
-
-
-    vector<vector<int>> verticalTraversal(TreeNode* root) 
-    {
-        map<int,vector<pair<int,int>>>mpp;
-        solve(root, 0,0,mpp);
+    vector<vector<int>> verticalTraversal(TreeNode* root) {
+        map<int,vector< pair<int,int> > >mpp;
+        doit( root , 0 , 0 , mpp);
         vector<vector<int>> ans;
         for( auto it : mpp)
         {
-            vector<pair<int,int>> arr=it.second;
-            sort(arr.begin(), arr.end(), cmp);
+            vector<pair<int,int>> arr = it.second;
+            sort( arr.begin() , arr.end() , cmp);
             vector<int>temp;
-            for( int i=0; i<arr.size();i++)
+            for( auto i : arr )
             {
-                temp.push_back(arr[i].second);
+                temp.push_back( i.second);
             }
-            ans.push_back(temp);
+            if(!temp.empty()) ans.push_back( temp );
         }
         return ans;
-        
-       
     }
 };
