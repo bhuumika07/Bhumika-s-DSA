@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
 |  |
 | ------- |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Linked List
 |  |
 | ------- |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Prefix Sum
 |  |
 | ------- |
