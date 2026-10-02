@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Binary Search
 |  |
