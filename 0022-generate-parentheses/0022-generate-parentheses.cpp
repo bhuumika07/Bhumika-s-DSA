@@ -17,6 +17,7 @@ public:
         {
              temp.push_back(')');
              solve( n ,ans , temp, open , close+1);
+             temp.pop_back();
         }
        
     }
