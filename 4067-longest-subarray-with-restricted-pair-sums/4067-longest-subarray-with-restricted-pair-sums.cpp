@@ -1,136 +1,86 @@
 class Solution {
 public:
     int maxSubarray(vector<int>& nums) {
-
-        if (nums.size() <= 2) return nums.size();
-
-        deque<pair<int,int>> dq;
-
-        // pair sum -> number of pairs currently producing this sum
-        unordered_map<int,int> sums;
-
-        // value -> frequency in current window
-        unordered_map<int,int> ele;
-
+        while( nums.size() <= 2) return nums.size();
+        unordered_map<int,int>sums;
+        unordered_map<int,int>ele;
+        deque< pair<int,int> > dq;
         int left = 0;
         int right = 0;
         int maxlen = 1;
-
-        while (right < 2)
+        while( right < nums.size())
         {
-            dq.push_back({nums[right], right});
-
-            ele[nums[right]]++;
-
-            right++;
-            maxlen = 2;
-        }
-
-        // pair (0,1)
-        sums[nums[0] + nums[1]]++;
-
-        while (right < nums.size())
-        {
-            int x = nums[right];
-
-            bool bad = false;
-
-            // Case 1:
-            // two existing elements already add up to x
-            if (sums.find(x) != sums.end())
+            bool bad = 0;
+            
+            // case 1 : what if there already exists 2 elements that made a pairsum equal to me
+            if( sums.find( nums[right]) != sums.end())
             {
-                bad = true;
+                bad = 1;
             }
-
-            // Case 2:
-            // existing element + x = another existing element
-            if (!bad)
+            // case 2 : will check if i when added to current element create a already existing element
+            if( !bad )
             {
-                for (auto it : ele)
+                int curr = nums[right];
+                for( auto it  : ele)
                 {
-                    int value = it.first;
-
-                    if (ele.find(value + x) != ele.end())
+                    if( ele.find( curr + it.first) != ele.end())
                     {
-                        bad = true;
+                        bad = 1;
                         break;
                     }
                 }
             }
 
-            // Shrink until x can safely enter
-            while (bad)
+            // now we will validate the window by shrinking appropriately
+            while( bad )
             {
                 int removed = nums[left];
-
-                // Remove every pair:
-                // removed + nums[i]
-                for (auto it : dq)
+                // i will eliminate all the pairsums that were formed using this elemnt;
+                for( auto it : dq)
                 {
-                    if (it.second <= left)
-                        continue;
-
-                    int sum = removed + it.first;
-
-                    sums[sum]--;
-
-                    if (sums[sum] == 0)
-                        sums.erase(sum);
+                    if( it.second > left )
+                    {
+                        int sum = removed + it.first;
+                        sums[sum]--;
+                        if( sums[sum] == 0) sums.erase( sum );
+                    }
                 }
-
-                // Remove the element itself
-                ele[removed]--;
-
-                if (ele[removed] == 0)
-                    ele.erase(removed);
-
+                // remove the element now
+                ele[ removed]--;
+                if( ele[removed] == 0) ele.erase(removed);
                 dq.pop_front();
                 left++;
 
-                // Check again with the smaller window
+                // now we will check whether after this operation , window become valid or not
 
-                bad = false;
-
-                // Case 1
-                if (sums.find(x) != sums.end())
+                bad = 0;
+                // case 1 : sum still exists
+                if( sums.find( nums[right]) != sums.end()) bad = 1;
+                //case2 : am i pairing it with somebody to produce the already present element.
+                if(!bad)
                 {
-                    bad = true;
-                }
-
-                // Case 2
-                if (!bad)
-                {
-                    for (auto it : ele)
+                    for( auto it : ele)
                     {
-                        int value = it.first;
-
-                        if (ele.find(value + x) != ele.end())
+                        int value = nums[right] + it.first;
+                        if( ele.find( value ) != ele.end())
                         {
-                            bad = true;
+                            bad = 1;
                             break;
                         }
                     }
                 }
             }
-
-            // Now x can safely be inserted.
-            // Create all pairs involving x.
-
-            for (auto it : dq)
+            // now after making the window valid , now we will be adding new pairsums
+            for( auto it : dq)
             {
-                int sum = it.first + x;
+                int sum = it.first + nums[right];
                 sums[sum]++;
             }
-
-            ele[x]++;
-
-            dq.push_back({x, right});
-
-            maxlen = max(maxlen, right - left + 1);
-
+            ele[nums[right]]++;
+            dq.push_back( {nums[right] , right});
+            maxlen = max( maxlen , right-left+1);
             right++;
         }
-
         return maxlen;
     }
 };
