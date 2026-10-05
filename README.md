@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0791-custom-sort-string) |
 | [0833-find-and-replace-in-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0833-find-and-replace-in-string) |
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1120,5 +1122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
