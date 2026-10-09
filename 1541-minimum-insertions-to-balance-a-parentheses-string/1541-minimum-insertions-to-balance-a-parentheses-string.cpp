@@ -8,8 +8,9 @@ public:
         {
             if( c == '(' && close == 1 && open > 0)
             {
-                ans += 2 - close;
-                open--; close=0;
+                ans ++;
+                open--; 
+                close=0;
             }
             if( c == '(') open++;
             else close++;
