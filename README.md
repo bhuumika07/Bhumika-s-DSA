@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2845-count-of-interesting-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2845-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
