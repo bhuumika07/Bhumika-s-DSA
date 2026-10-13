@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
