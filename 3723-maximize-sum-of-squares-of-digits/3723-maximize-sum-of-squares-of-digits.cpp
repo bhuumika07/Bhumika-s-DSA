@@ -2,8 +2,6 @@ class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
       long long s = 0;
-      if( num == 1 && sum >= 10) return "";
-      if( num ==  1) return to_string(sum);
       string ans = "";
       int count = 0;
       while( count < num)
