@@ -12,9 +12,10 @@ public:
            if( it.second < 2) return -1;
            if( it.second % 3 == 0) {three = it.second/3;}
            else three = it.second/3 + 1;
-           if( it.second%2==0) {two = it.second/2;}
-           else two = it.second/2+1;
-           ans += min( two , three);
+        //    if( it.second%2==0) {two = it.second/2;}
+        //    else two = it.second/2+1;
+        //    ans += min( two , three);
+        ans += three;
         }
         return ans;
         
