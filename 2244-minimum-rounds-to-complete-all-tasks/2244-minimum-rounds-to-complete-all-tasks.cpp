@@ -6,16 +6,9 @@ public:
         long long ans = 0;
         for( auto it : mpp)
         {
-           int two = 0;
-           int three = 0;
-           bool flag = 0;
            if( it.second < 2) return -1;
-           if( it.second % 3 == 0) {three = it.second/3;}
-           else three = it.second/3 + 1;
-        //    if( it.second%2==0) {two = it.second/2;}
-        //    else two = it.second/2+1;
-        //    ans += min( two , three);
-        ans += three;
+           ans += it.second/3;
+           if( it.second % 3 != 0) ans++;
         }
         return ans;
         
