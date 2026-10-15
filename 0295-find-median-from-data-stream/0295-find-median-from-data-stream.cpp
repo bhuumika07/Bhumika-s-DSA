@@ -7,13 +7,10 @@ public:
     void addNum(int num) {
        if( max.empty() || max.top() >= num) max.push( num);
        else min.push( num );
-       if( abs( (int)max.size() - (int)min.size() ) > 1)
-       {
-        if( max.size() > min.size()){
+        if( max.size() > min.size() + 1){
             int t = max.top();  max.pop();  min.push( t );}
-        else{
+        else if( min.size() > max.size() + 1) {
             int t = min.top();  min.pop(); max.push( t );}
-       }
     }
     
     double findMedian() {
