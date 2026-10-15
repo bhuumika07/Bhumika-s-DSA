@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2262-total-appeal-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2140-solving-questions-with-brainpower) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3223-minimum-length-of-string-after-operations) |
