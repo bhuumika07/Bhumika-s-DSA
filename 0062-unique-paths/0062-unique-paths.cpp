@@ -1,6 +1,7 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
+        // tabulation approach
        vector<vector<int>>dp( m , vector<int>(n,0));
        dp[0][0] = 1;
        for( int i=0; i<m ; i++)
