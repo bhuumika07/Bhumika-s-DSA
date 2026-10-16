@@ -1,21 +1,21 @@
 class Solution {
 public:
-    long long dp[105][105];
-    long long doit( vector<vector<int>>& grid , int r , int c )
-    {
-        if(r >= grid.size() || c >= grid[0].size()) return 0;
-        if( grid[r][c] == 1) return 0;
-        if(dp[r][c] != -1) return dp[r][c];
-        if(r == grid.size()-1 && c == grid[0].size()-1) return 1;
+    int dp[101][101];
+    int doit( vector<vector<int>>&grid , int n , int m)
+    { 
+        if( n == 0 && m == 0 && grid[n][m] != 1) return 1;
+        if( n < 0 || m < 0) return 0;
+        if( dp[n][m] != -1) return dp[n][m];
+        if( grid[n][m] == 1) return 0;
+        int right = doit( grid , n, m-1);
+        int down = doit( grid , n-1 , m);
+        return dp[n][m] = right+ down;
 
-        long long right = doit( grid , r, c+1);
-        long long bottom = doit( grid , r+1 , c);
-
-        return dp[r][c] = ( right + bottom);
     }
     int uniquePathsWithObstacles(vector<vector<int>>& grid) {
-        memset( dp , -1 , sizeof(dp));
-         return doit( grid , 0 , 0);
-        
+        memset(dp , -1 , sizeof(dp));
+        int n = grid.size()-1;
+        int m = grid[0].size()-1;
+        return doit( grid  , n , m);
     }
 };
