@@ -1,18 +1,21 @@
 class Solution {
 public:
     int dp[101][101];
-    int doit( int row , int col , int r ,int c)
+    int doit( int n , int m)
     {
-        if( row < r || col < c) return 0;
-        if(dp[r][c] != -1) return dp[r][c];
-        if( row ==r && col==c) return 1;
-        int bottom = doit( row , col , r+1 ,c);
-        int right = doit(row , col , r , c+1 );
+        if( n == 0 && m == 0) return 1;
+        if( n < 0 || m < 0) return 0;
+        if( dp[n][m] != -1) return dp[n][m];
+        int down = doit( n-1 , m);
+        int right = doit(n , m-1);
 
-        return dp[r][c]=bottom + right;
+        return dp[n][m] = down + right;
     }
     int uniquePaths(int m, int n) {
-        memset( dp , -1 , sizeof(dp));
-        return doit( m , n , 1 , 1);
+        // down --> i+1 , right --> j+1
+        int rows[] = {0,1};
+        int cols[] ={1,0};
+        memset(dp , -1 , sizeof(dp));
+        return doit(m-1,n-1);
     }
 };
