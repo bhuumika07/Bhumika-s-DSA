@@ -1,19 +1,21 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        // tabulation approach
-       vector<vector<int>>dp( m , vector<int>(n,0));
-       dp[0][0] = 1;
-       for( int i=0; i<m ; i++)
+        // space optimization approach:
+        // for every index , i just required the previious row and pervious column and its a golden chance to space optimize it .
+        // i will keep a 1D dp vector for the row above and temp vector for current row.
+       vector<int>dp( n , 1);
+       for( int i=1; i<m ; i++)
        {
-        for( int j=0; j<n; j++)
+        vector<int>temp( n , 0);
+        temp[0] = dp[0];
+        for( int j=1; j<n; j++)
         {
-            if( i == 0 && j == 0) continue;
-            if(i-1 >= 0) dp[i][j] = dp[i-1][j];
-            if(j-1 >= 0) dp[i][j] +=dp[i][j-1];
+           temp[j] = dp[j] + temp[j-1];
         }
+        dp=temp;
        }
-       return dp[m-1][n-1];
+       return dp[n-1];
 
     }
 };
