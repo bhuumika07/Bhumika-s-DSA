@@ -1,11 +1,5 @@
 class Solution {
 public:
-    // static bool cmp( const pair<long long , int>& a , const pair<long long,int>&b)
-    // {
-    //     if( a.first > b.first ) return 0;
-    //     if( a.first == b.first && a.second > b.second) return 0;
-    //     return 1;
-    // }
     int minSwaps(vector<int>& nums) {
         vector<pair<int, int> > unsorted;
         for( int i=0; i<nums.size(); i++)
