@@ -22,6 +22,7 @@ public:
         vector< pair<int,int> > sorted = unsorted;
         sort( sorted.begin() , sorted.end());
         unordered_map< int , int > indices;
+        indices.reserve(nums.size());
         for( int i = 0; i< nums.size(); i++ )
         {
             indices[ unsorted[i].second ] = i;
