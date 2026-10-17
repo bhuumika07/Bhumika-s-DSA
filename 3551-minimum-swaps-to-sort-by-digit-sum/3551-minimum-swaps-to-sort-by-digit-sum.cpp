@@ -7,7 +7,7 @@ public:
     //     return 1;
     // }
     int minSwaps(vector<int>& nums) {
-        vector<pair<long long, int> > unsorted;
+        vector<pair<int, int> > unsorted;
         for( int i=0; i<nums.size(); i++)
         {
             long long add = 0;
@@ -19,7 +19,7 @@ public:
             }
             unsorted.push_back( {add,nums[i]} );
         }
-        vector< pair<long long,int> > sorted = unsorted;
+        vector< pair<int,int> > sorted = unsorted;
         sort( sorted.begin() , sorted.end());
         unordered_map< int , int > indices;
         for( int i = 0; i< nums.size(); i++ )
