@@ -6,26 +6,22 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         vector< vector<bool> > visited( n , vector<bool>( m , 0));
-        
-       queue< pair<int,int> > q;
-       q.push( {0,0});
+        int currR = 0 ; int currC = 0;
+        int r  = 0; int c = 0;
+        while( currR >= 0 && currC>=0 && currR < n && currC < m)
+        {
+            if( visited[currR][currC]) return {lastr , lastc};
+            if( grid[currR][currC] == 'L') { r = currR ; c = currC - 1;}
+            else if( grid[currR][currC] == 'R') {r = currR; c = currC + 1;}
+            else if( grid[currR][currC] == 'U') {r = currR - 1; c = currC;}
+            else { r = currR+1 ; c = currC;}
+            lastr = currR;
+            lastc = currC;
+            visited[currR][currC] = 1;
+            currR = r;
+            currC = c;
+        }
        
-       while(!q.empty())
-       {
-            auto it = q.front();
-            q.pop();
-            int r = it.first;
-            int c = it.second;
-            if( r < 0 || c < 0 || r >= n || c >= m) return {lastr , lastc};
-            if( visited[r][c] ) return {lastr , lastc};
-            visited[r][c] = 1;
-            if( grid[r][c] == 'L') q.push( {r , c-1});
-            else if( grid[r][c] == 'R') q.push( {r,c+1});
-            else if( grid[r][c] == 'U') q.push( {r-1 , c});
-            else q.push( { r+1, c});
-            lastr = r;
-            lastc = c;
-       }
        return {lastr , lastc};
         
     }
