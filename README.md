@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
+| [0829-consecutive-numbers-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0991-broken-calculator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0991-broken-calculator) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
