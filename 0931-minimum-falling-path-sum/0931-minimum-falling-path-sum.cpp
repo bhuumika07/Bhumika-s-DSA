@@ -1,26 +1,24 @@
 class Solution {
 public:
+    int dp[101][101];
+    int doit( vector<vector<int>>&matrix , int r , int c)
+    {
+        if(  c >= matrix.size() || c < 0) return INT_MAX;
+        if( r >= matrix.size()) return 0;
+        if( dp[r][c] != 1e9) return dp[r][c];
+        int dgleft = doit(matrix , r+1,c-1 );
+        int down = doit( matrix, r+1 , c);
+        int dgright = doit( matrix ,r+1 , c+1);
+
+        return dp[r][c] = matrix[r][c] + min( dgleft , min( down , dgright));
+    }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-       int n = matrix.size();
-       vector<int>row(n);
-       int ans = INT_MAX;
-       for( int i = 0; i< n; i++)
-       {
-        vector<int>temp(n , INT_MAX);
-        for( int j = 0; j< n ; j++)
+        int ans = INT_MAX;
+        fill(&dp[0][0], &dp[0][0] + 101 * 101, 1e9);
+        for(int i=0; i<matrix.size();i++)
         {
-            if( i == 0) temp[j] = ( matrix[i][j]);
-            else
-            {
-                if( j > 0) temp[j] = min( temp[j] , row[j-1]);
-                if( j+1 < n) temp[j] =min( temp[j] , row[j+1]);
-                temp[j] = min( temp[j] , row[j]);
-                temp[j] += matrix[i][j];
-            }
-            if( i == n-1) ans = min( ans , temp[j]);
+            ans = min( ans,doit(matrix ,0 , i));
         }
-        row = temp;
-       }
-       return ans;
+        return ans;
     }
 };
