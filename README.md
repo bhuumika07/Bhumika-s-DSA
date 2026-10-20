@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
