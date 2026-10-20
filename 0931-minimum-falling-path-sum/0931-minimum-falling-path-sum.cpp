@@ -1,24 +1,36 @@
 class Solution {
 public:
-    int dp[101][101];
-    int doit( vector<vector<int>>&matrix , int r , int c)
-    {
-        if(  c >= matrix.size() || c < 0) return INT_MAX;
-        if( r >= matrix.size()) return 0;
-        if( dp[r][c] != 1e9) return dp[r][c];
-        int dgleft = doit(matrix , r+1,c-1 );
-        int down = doit( matrix, r+1 , c);
-        int dgright = doit( matrix ,r+1 , c+1);
-
-        return dp[r][c] = matrix[r][c] + min( dgleft , min( down , dgright));
-    }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int ans = INT_MAX;
-        fill(&dp[0][0], &dp[0][0] + 101 * 101, 1e9);
-        for(int i=0; i<matrix.size();i++)
+       int n = matrix.size();
+       vector<vector<int>>sums(n ,vector<int>( n ,INT_MAX));
+       int ans = INT_MAX;
+       for( int i = 0; i< n; i++)
+       {
+        for( int j = 0; j< n ; j++)
         {
-            ans = min( ans,doit(matrix ,0 , i));
+            if( i == 0)
+            {
+                sums[i][j] = matrix[i][j];
+            }
+            else
+            {
+                if( j > 0)
+                {
+                    sums[i][j] = min( sums[i][j] , matrix[i][j] + sums[i-1][j-1]);
+                }
+                if(j+1 < n)
+                {
+                    sums[i][j]=min( sums[i][j] , matrix[i][j] + sums[i-1][j+1]);
+                }
+                sums[i][j] = min( sums[i][j] , matrix[i][j] + sums[i-1][j]);
+                
+            }
+            if( i == n-1)
+            {
+                ans = min( ans , sums[i][j]);
+            }
         }
-        return ans;
+       }
+       return ans;
     }
 };
