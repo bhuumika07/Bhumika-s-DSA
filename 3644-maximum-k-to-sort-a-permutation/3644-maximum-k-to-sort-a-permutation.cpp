@@ -1,17 +1,12 @@
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        vector<int>misplaced;
+        int first = -1;
         for( int i =0; i<nums.size(); i++)
         {
-            if( nums[i] != i) misplaced.push_back( nums[i]);
+            if( nums[i] != i) if( first == -1) first = nums[i]; else first = first & nums[i];
         }
-        if(misplaced.empty()) return 0;
-        int first = misplaced[0];
-        for( int i =1; i< misplaced.size(); i++)
-        {
-            first = first & misplaced[i];
-        }
+        if(first == -1) return 0;
         return first;
     }
 };
