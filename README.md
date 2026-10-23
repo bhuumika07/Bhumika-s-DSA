@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2392-build-a-matrix-with-conditions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2392-build-a-matrix-with-conditions) |
+| [2401-longest-nice-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [2401-longest-nice-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
