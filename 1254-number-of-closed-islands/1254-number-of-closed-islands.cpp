@@ -1,54 +1,52 @@
 class Solution {
 public:
-    int rows[4]={-1,0,1,0};
-    int cols[4]={0,-1,0,1};
-   
-    bool markit( vector<vector<int>>&grid , int r , int c ,vector<vector<bool>>&visited)
-    {   
-        int rsize = grid.size();
-        int csize = grid[0].size();
-        queue<pair<int,int>>q;
-        visited[r][c]=1;
-        q.push({r,c});
-        bool verdict=1;
-        if( r == 0 || c==0 || r == rsize-1 || c == csize-1) verdict=0;
-        while(!q.empty())
+    void doit(vector<vector<int>>&grid ,int r , int c , vector<vector<bool>>&visited)
+    {
+        int rows[] ={0,-1,0,1};
+        int cols[]= {-1,0,1,0};
+        int n = grid.size();
+        int m = grid[0].size();
+        for( int i = 0 ; i<4; i++)
         {
-            auto [r1,c1] = q.front();
-            q.pop();
-
-            for( int i=0;i<4;i++)
-            {
-                int nrow = rows[i] + r1;
-                int ncol = cols[i] + c1;
-                if( nrow >= 0 && nrow < rsize && ncol >=0 && ncol < csize && !visited[nrow][ncol] && grid[nrow][ncol]==0)
-                {
-                    if( nrow == 0 || ncol ==0 || nrow == rsize-1 || ncol == csize-1) verdict=0;
-                    visited[nrow][ncol]=1;
-                    q.push({nrow,ncol});
-                }
-            }
+            int nr = rows[i] + r;
+            int nc= cols[i] + c;
+            if( nr < 0 || nc < 0 || nr >= n || nc>=m) continue;
+            if( visited[nr][nc] || grid[nr][nc] == 1) continue;
+            visited[nr][nc] = 1;
+            doit( grid , nr, nc , visited);
         }
-        return verdict;
     }
     int closedIsland(vector<vector<int>>& grid) {
-        int rsize = grid.size();
-        int csize = grid[0].size();
-      
-        vector<vector<bool>>visited(rsize, vector<bool>(csize,0));
-        
-        int count=0;
-        for( int i=0; i<rsize; i++)
+        int count  = 0;
+        int n= grid.size();
+        int m = grid[0].size();
+        vector<vector<bool>>visited(  n, vector<bool>(m,0));
+        for( int i = 0; i<n; i++)
         {
-            for( int j=0; j<csize; j++)
+            for( int j = 0; j<m; j++)
             {
-                if(grid[i][j]==0 && !visited[i][j])
+                if(!visited[i][j] && grid[i][j] == 0 ) 
                 {
-                    visited[i][j]=1;
-                    if(markit( grid ,i,j,visited)) count++;
+                    count++;
+                    visited[i][j] = 1;
+                    doit( grid , i , j, visited);
                 }
             }
         }
-       return count;
+        visited.assign( n , vector<bool>( m , 0));
+        for( int i = 0; i<n;i++)
+        {
+           for( int j = 0; j<m; j++)
+           {
+             if(!visited[i][j] && grid[i][j] == 0 && ( i == 0 || j == 0 || i== n-1 || j == m-1))
+             {
+                count--;
+                visited[i][j] = 1;
+                doit( grid , i , j, visited);
+             } 
+           }
+        }
+
+        return count;
     }
 };
