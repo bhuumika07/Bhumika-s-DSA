@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1046-last-stone-weight](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1046-last-stone-weight) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1020-number-of-enclaves) |
 | [1034-coloring-a-border](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1034-coloring-a-border) |
+| [1046-last-stone-weight](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1219-path-with-maximum-gold](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1219-path-with-maximum-gold) |
