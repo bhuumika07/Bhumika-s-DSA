@@ -8,7 +8,7 @@ public:
         int rows[]={1,0};
         int cols[]={0,1};
         xr ^= grid[r][c];
-        if( r== n-1 && c == m-1) ans= min( ans , xr);
+        if( r== n-1 && c == m-1) {ans= min( ans , xr); return;}
         if(visited[r][c][xr]) return;
         visited[r][c][xr]=1;
         for( int i =0; i<2; i++)
