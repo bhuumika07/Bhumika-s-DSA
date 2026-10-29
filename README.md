@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0740-delete-and-earn) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
@@ -904,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -998,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
