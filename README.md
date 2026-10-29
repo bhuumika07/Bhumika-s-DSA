@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
