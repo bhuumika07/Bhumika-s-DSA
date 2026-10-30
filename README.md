@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2762-continuous-subarrays) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
