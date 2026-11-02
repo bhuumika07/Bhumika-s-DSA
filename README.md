@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0419-battleships-in-a-board](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
