@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0221-maximal-square) |
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
