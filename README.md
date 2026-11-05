@@ -746,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1254-number-of-closed-islands) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
