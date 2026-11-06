@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0851-loud-and-rich) |
 | [0860-lemonade-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0860-lemonade-change) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0934-shortest-bridge) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
