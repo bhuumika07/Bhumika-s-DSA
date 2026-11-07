@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
