@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<vector<string>> findMismatchedSegments(string s1, string s2) {
+        vector<vector<string>>ans;
+        string a = "";
+        string b = "";
+        for( int i = 0; i<s1.size(); i++){
+            if(s1[i] != s2[i]){
+                a+=s1[i];
+                b+=s2[i];
+            }
+            else if(!a.empty()){
+                ans.push_back({a,b});
+                a="";
+                b="";
+            }
+        }
+        if(!a.empty()){
+            ans.push_back({a,b});
+        }
+        return ans;
+    }
+};
