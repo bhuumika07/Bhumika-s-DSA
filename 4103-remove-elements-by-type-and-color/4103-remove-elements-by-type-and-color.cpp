@@ -7,9 +7,7 @@ public:
             if(!st.empty() && st.top().first == types[i] && st.top().second.second == colors[i]){
                 if((st.top().second.first + 1 )% groupSize[types[i]] == 0)st.pop();
                 else {
-                    int amt = st.top().second.first;
-                    st.pop();
-                    st.push({types[i] , {amt+1 , colors[i]}});
+                   st.top().second.first++;
                 }
             }
             else {
