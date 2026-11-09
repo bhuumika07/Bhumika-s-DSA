@@ -16,7 +16,7 @@ public:
         }
         
         if(!st.empty()&& (st.top().second.first % groupSize[st.top().first]) == 0) st.pop();
-        if(st.empty()) return 1;
+        
         return st.empty();
     }
 };
