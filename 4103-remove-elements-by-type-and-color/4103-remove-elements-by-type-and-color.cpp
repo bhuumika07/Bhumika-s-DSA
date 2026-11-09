@@ -15,8 +15,8 @@ public:
                 else st.push({types[i] , {1 , colors[i]}});}
         }
         
-        while(!st.empty()&& (st.top().second.first % groupSize[st.top().first]) == 0) st.pop();
+        if(!st.empty()&& (st.top().second.first % groupSize[st.top().first]) == 0) st.pop();
         if(st.empty()) return 1;
-        return 0;
+        return st.empty();
     }
 };
