@@ -2,7 +2,7 @@ class Solution {
 public:
     long long countValidSubstrings(string s) {
         int lastb =-1;int lasta=-1;
-        unordered_map<int,int>mpp;
+        vector<int>mpp(s.size() , -1);
         long long count = 0;
         int left = 0;
         int right=0;
