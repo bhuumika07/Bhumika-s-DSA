@@ -1,8 +1,7 @@
 class Solution {
 public:
-    int check( vector<int>&quantities , long long maxi){
+    int check( vector<int>&quantities , int maxi){
         int count = 0;
-
         for( int i=0; i<quantities.size(); i++){
             if( quantities[i] > maxi){
                 count+=( quantities[i] /maxi);
@@ -10,15 +9,13 @@ public:
             }
             else count++;
         }
-        // if(prev!=0) count++;
         return count;
     }
     int minimizedMaximum(int n, vector<int>& quantities) {
-        long long low = 1;
-        long long high = 0; int ans = -1;
-        for( int x :quantities) high += x;
+        int low = 1;
+        int high = *max_element(quantities.begin() , quantities.end()); int ans = -1;
         while( low <= high){
-            long long mid = low + ( high - low)/2;
+            int mid = low + ( high - low)/2;
             int log  = check(quantities , mid);
             if( log > n) low = mid+1;
             else{
