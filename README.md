@@ -800,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2140-solving-questions-with-brainpower](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2140-solving-questions-with-brainpower) |
+| [2187-minimum-time-to-complete-trips](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
