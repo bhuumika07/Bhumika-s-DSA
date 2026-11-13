@@ -14,12 +14,6 @@ public:
                 else nums[i] = nums[i-1];
                 count++;
             }
-            else if( nums[i] < nums[i-1])
-            {
-                if( count > 1) return 0;
-                nums[i] = nums[i+1];
-                count++;
-            }
         }
         if( count > 1) return 0;
         return 1;
