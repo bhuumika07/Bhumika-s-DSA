@@ -16,9 +16,11 @@ public:
         int size = position.size();
         vector<int>temp = position;
         sort(temp.begin() , temp.end());
-        long long mini = temp[0];
         long long maxi = temp[size-1];
         long long low = 1;
+        for( int i = 0; i<size-1; i++){
+            low = min( low , 1LL*(temp[i+1] - temp[i]));
+        }
         long long high = maxi - temp[0];
 
         int ans = -1;
