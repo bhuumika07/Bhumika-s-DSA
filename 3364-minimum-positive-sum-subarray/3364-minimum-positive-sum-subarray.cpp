@@ -29,7 +29,5 @@ public:
         }
         if(minSum == INT_MAX) return -1;
         return minSum;
-      
-      
     }
 };
