@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [2008-maximum-earnings-from-taxi](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1514-path-with-maximum-probability](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
