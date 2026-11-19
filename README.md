@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3842-toggle-light-bulbs) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sliding Window
 |  |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3842-toggle-light-bulbs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Iterator
 |  |
