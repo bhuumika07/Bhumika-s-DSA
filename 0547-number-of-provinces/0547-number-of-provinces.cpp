@@ -1,71 +1,32 @@
 class Solution {
 public:
-class DisjointSet
-{
-    public:
-
-    vector<int>Parent;
-    vector<int>size;
-    
-    DisjointSet( int n)
-    {
-        Parent.resize(n);
-        size.resize(n,1);
-        for( int i=0; i<n;i++) Parent[i]=i;
-    }
-    int findParent( int node)
-    {
-        if( node == Parent[node]) return node;
-        return Parent[node]=findParent(Parent[node]);
-    }
-    void UnionBySize( int a , int b)
-    {
-        int ulp_a = findParent(a);
-        int ulp_b = findParent(b);
-        if( ulp_a == ulp_b) return;
-        int sizea = size[ulp_a];
-        int sizeb = size[ulp_b];
-        if( sizea < sizeb)
-        {
-            Parent[ulp_a] = ulp_b;
-            size[ulp_b]+=size[ulp_a];
-        }
-        else if( sizeb < sizea)
-        {
-            Parent[ulp_b]=ulp_a;
-            size[ulp_a]+=size[ulp_b];
-        }
-        else
-        {
-            Parent[ulp_a] = ulp_b;
-            size[ulp_b]+=size[ulp_a];
-        }
-
-    }
-};
-    int findCircleNum(vector<vector<int>>& given) {
-        DisjointSet ds(given.size());
-        for( int i=0; i<given.size();i++)
-        {
-            for( int j=0; j<given[0].size();j++)
-            {
-                if( given[i][j] == 1) ds.UnionBySize(i,j);
+    void visitit(vector<vector<int>>&adj , vector<bool>&visited , int node){
+        for( auto it : adj[node]){
+            if(!visited[it]){
+                visited[it] = 1;
+                visitit(adj,visited,it);
             }
         }
-        int count=0;
-        
-        vector<int>temp;
-        temp=ds.Parent;
-    
-        for( int i=0; i<temp.size(); i++)
-        {
-            if( i == temp[i])
-            {
+    }
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int  n = isConnected.size();
+        vector<vector<int>>adj(n);
+        for( int i = 0; i<n ; i++){
+            for( int j=0; j<n; j++){
+                if( i == j && isConnected[i][j]) continue;
+                if(isConnected[i][j]) adj[i].push_back(j);
+            }
+        }
+
+        vector<bool>visited( n , 0);
+        int count = 0;
+        for( int i = 0; i<n; i++){
+            if(!visited[i]){
                 count++;
+                visited[i] = 1;
+                visitit(adj,visited,i);
             }
         }
         return count;
-
-        
     }
 };
