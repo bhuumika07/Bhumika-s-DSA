@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0670-maximum-swap) |
 | [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0829-consecutive-numbers-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0991-broken-calculator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0991-broken-calculator) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
