@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int dp[46];
-    int doit( int n ){
-        if( n == 0) return 1;
-        if( n < 0) return 0;
-        if(dp[n] != -1) return dp[n];
-        int one = doit( n-1);
-        int two = doit( n-2);
-
-        return dp[n] = one + two;
-    }
     int climbStairs(int n) {
-        memset(dp , -1 , sizeof(dp));
-       return doit(n); 
+      // tabulation will be written from the base case --> that is from 0.
+      // what are the possible ways to become 0 or 1--> 1- right
+      // i will always fetch out last 2 values to get what i want to achieve.
+      vector<int>dp(n+1,0);
+      dp[0] = 1;
+      dp[1] = 1;
+      for( int i=2; i<=n;i++){
+        dp[i] = dp[i-1] + dp[i-2];
+      }
+      return dp[n];
     }
 };
