@@ -1288,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Game Theory
 |  |
@@ -1397,4 +1398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0069-sqrtx) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
