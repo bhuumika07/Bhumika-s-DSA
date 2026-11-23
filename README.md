@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0829-consecutive-numbers-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0991-broken-calculator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0991-broken-calculator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0848-shifting-letters](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0848-shifting-letters) |
 | [1109-corporate-flight-bookings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1414,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
