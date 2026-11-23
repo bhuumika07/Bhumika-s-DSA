@@ -1,15 +1,16 @@
 class Solution {
 public:
-    int dp[101];
-    int doit( vector<int>&nums , int index){
-        if( index >= nums.size()) return 0;
-        if(dp[index] != -1) return dp[index];
-        int loot =  nums[index] + doit( nums , index + 2);
-        int skip = doit( nums , index+1);
-        return dp[index] = max( loot , skip);
-    }
     int rob(vector<int>& nums) {
-        memset(dp,-1,sizeof(dp));
-        return doit( nums , 0);
+       int n = nums.size();
+       vector<int>dp(n,0);
+       dp[0] = nums[0];
+       for( int i = 1; i<n; i++){
+        dp[i] = dp[i-1]; // i will not loot thid house and will just take whatever i have lotted till now.
+
+        // what if i do loot this house and pick the max.
+        if(i > 1) dp[i] = max(dp[i] , dp[i-2] + nums[i]);
+        else dp[i] = max(dp[i] , nums[i]);
+       }
+       return dp[n-1];
     }
 };
