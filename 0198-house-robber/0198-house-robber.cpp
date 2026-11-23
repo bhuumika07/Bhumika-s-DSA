@@ -1,17 +1,15 @@
 class Solution {
 public:
+    int dp[101];
+    int doit( vector<int>&nums , int index){
+        if( index >= nums.size()) return 0;
+        if(dp[index] != -1) return dp[index];
+        int loot =  nums[index] + doit( nums , index + 2);
+        int skip = doit( nums , index+1);
+        return dp[index] = max( loot , skip);
+    }
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        if( n==1) return nums[0];
-        int first = nums[0];
-        int second = max(nums[0] , nums[1]);
-        int ans = second;
-        for( int i = 2; i<n; i++){
-           ans = max( first + nums[i] , second);
-           first = second;
-           second= ans;
-        }
-
-        return ans;
+        memset(dp,-1,sizeof(dp));
+        return doit( nums , 0);
     }
 };
