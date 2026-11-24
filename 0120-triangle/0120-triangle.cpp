@@ -1,27 +1,15 @@
 class Solution {
 public:
+
+    int doit(vector<vector<int>>&triangle , int row , int col,  vector<vector<int>>&dp){
+        if( row == triangle.size()-1 ) return triangle[row][col];
+        if(dp[row][col] != INT_MAX) return dp[row][col];
+        int down = doit(triangle , row+1 , col,dp);
+        int next = doit( triangle , row+1,col+1,dp);
+        return dp[row][col]= triangle[row][col] + min(down,next);
+    }
     int minimumTotal(vector<vector<int>>& triangle) {
-        int n = triangle.size();
-        int ans = INT_MAX;
-        vector<int>rows(n);
-        for(int i=0; i<n; i++)
-        {
-           vector<int>temp(n);
-           for( int j = 0; j<=i; j++)
-           {
-            if( i == 0) temp[j] = triangle[i][j];
-            else{
-                // i can access j jo mere last i se chotta ho.
-                if( j <= i-1) temp[j] = rows[j];
-                else temp[j] = INT_MAX;
-                if( j > 0) temp[j] = min( temp[j] , rows[j-1]);
-                temp[j] += triangle[i][j];
-            }
-             if( i == n-1) ans = min( ans , temp[j]);
-           }
-           rows = temp;
-        }
-        return ans;
-        
+        vector<vector<int>>dp(201,vector<int>(201,INT_MAX));
+        return doit(triangle , 0 , 0,dp);
     }
 };
