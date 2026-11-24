@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0948-bag-of-tokens) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
