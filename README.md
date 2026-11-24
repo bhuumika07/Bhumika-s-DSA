@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
@@ -1360,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1440,4 +1443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
