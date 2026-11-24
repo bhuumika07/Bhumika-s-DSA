@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0203-remove-linked-list-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1348,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
