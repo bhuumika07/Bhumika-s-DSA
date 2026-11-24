@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0769-max-chunks-to-make-sorted) |
