@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0817-linked-list-components) |
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
