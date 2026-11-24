@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0148-sort-list) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -1011,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
