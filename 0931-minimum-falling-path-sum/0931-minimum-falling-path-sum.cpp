@@ -1,24 +1,27 @@
 class Solution {
 public:
     int dp[101][101];
-    int doit( vector<vector<int>>&matrix , int r , int c)
-    {
-        if(  c >= matrix.size() || c < 0) return INT_MAX;
-        if( r >= matrix.size()) return 0;
-        if( dp[r][c] != 1e9) return dp[r][c];
-        int dgleft = doit(matrix , r+1,c-1 );
-        int down = doit( matrix, r+1 , c);
-        int dgright = doit( matrix ,r+1 , c+1);
+    int doit( vector<vector<int>>&matrix , int row , int col){
+        int n = matrix.size();
+        int m = matrix[0].size();
+        if(col >= m || col < 0) return 1e9;
+        if( row == n-1) return dp[row][col] = matrix[row][col];
+        if(dp[row][col] != INT_MAX) return dp[row][col];
+        int below = doit(matrix , row+1 , col);
+        int left = doit(matrix,row+1,col-1);
+        int right = doit(matrix , row+1 , col +1);
 
-        return dp[r][c] = matrix[r][c] + min( dgleft , min( down , dgright));
+        return dp[row][col] = matrix[row][col] + min(below , min(left,right)); 
+
     }
     int minFallingPathSum(vector<vector<int>>& matrix) {
-        int ans = INT_MAX;
-        fill(&dp[0][0], &dp[0][0] + 101 * 101, 1e9);
-        for(int i=0; i<matrix.size();i++)
-        {
-            ans = min( ans,doit(matrix ,0 , i));
-        }
-        return ans;
+       fill(&dp[0][0], &dp[0][0] + 101 * 101, INT_MAX);
+       int n = matrix.size();
+       int m = matrix[0].size();
+        int ans  = INT_MAX;
+       for( int i = 0; i<m; i++) {
+        ans = min( ans , doit(matrix , 0 , i));
+       }
+       return ans;
     }
 };
