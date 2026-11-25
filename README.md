@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0721-accounts-merge) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0621-task-scheduler) |
@@ -1117,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0654-maximum-binary-tree) |
