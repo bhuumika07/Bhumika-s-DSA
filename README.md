@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0070-climbing-stairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0126-word-ladder-ii) |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/bhuumika07/Bhumika-s-DSA/tree/master/0735-asteroid-collision) |
