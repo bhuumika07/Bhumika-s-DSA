@@ -6,20 +6,24 @@ public:
        // copy the recurrence.
 
        int n = prices.size();
-       vector<vector<int>>dp( n+1 , vector<int>(2,0));
-       dp[n][0] = dp[n][1] =0;
+    //    vector<vector<int>>dp( n+1 , vector<int>(2,0));
+       int sell= 0;
+       int khareedlo =0;
+        // int ans = 0;
        for( int index = n-1; index>=0; index--){
         int profit = 0;
         for( int buy = 0; buy <= 1; buy++){
             if(buy){
-                profit = max(-1*prices[index] + dp[index+1][0] , dp[index+1][1]);
+                profit = max(-1*prices[index] + sell , khareedlo );
             }
             else{
-                profit = max(prices[index] + dp[index+1][1] , dp[index+1][0]);
+                profit = max(prices[index] +khareedlo , sell);
             }
-            dp[index][buy] = profit;
+           if(buy) khareedlo = profit;
+           else sell = profit;
+        //    ans = profit;
         }
        }
-       return dp[0][1];
+       return khareedlo;
      }
 };
