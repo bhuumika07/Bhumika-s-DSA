@@ -5,25 +5,25 @@
 // 3 -> second sell
 class Solution {
 public:
-    int dp[100001][4];
-    int doit( vector<int>&prices , int index ,int opr){
-        if(opr > 3) return 0;
-        if( index >= prices.size()) return 0;
-        if(dp[index][opr] != -1) return dp[index][opr];
+    int maxProfit(vector<int>& prices) {
+     // tabulation approach
+     // start from the base case.
+     int n = prices.size();
+     vector<vector<int>>dp(n+1, vector<int>(5 , 0));
+     dp[n][4] = 0;
+     for( int index = n-1; index>= 0;index--){
         int profit = 0;
-        if( opr%2 == 0 ){
-            profit = max( -1 * prices[index] + doit(prices , index+1 , opr+1) , doit(prices , index+1,  opr));
+        for( int opr = 3; opr >= 0 ; opr--){
+            if( opr%2 == 0 ){
+            profit = max( -1 * prices[index] + dp[index+1][opr+1] , dp[index+1][opr]);
         }
         else{
             // need to sell.
-            profit = max( prices[index] + doit(prices , index+1, opr+1) , doit(prices , index+1, opr));
+            profit = max( prices[index] + dp[index+1][opr+1] , dp[index+1][opr]);
         }
-        return dp[index][opr] = profit;
-
-    }
-    int maxProfit(vector<int>& prices) {
-        // func( arr , index , count , buy);
-        memset(dp,-1,sizeof(dp));
-        return doit(prices , 0 , 0);
+        dp[index][opr] = profit;
+        } 
+     }
+     return dp[0][0];
     }
 };
