@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int dp[30004][2];
-    int doit( vector<int>&prices , bool buy , int index){
-        if( index >= prices.size() ) return 0;
-        if(dp[index][buy] != -1) return dp[index][buy];
-        int option1 = 0;
-        int option2 =0;
-        if( buy ){
-            // either i will buy or i will not
-            option1 = max( -1*prices[index] + doit(prices , 0 , index+1) , doit(prices , 1 , index+1));
-        }
-        else{
-            // either i will sell or i will not
-            option2 = max( prices[index] + doit(prices , 1, index+1) , doit(prices , 0 , index+1));
-        }
-
-        return dp[index][buy] = max(option1 , option2);
-    }
     int maxProfit(vector<int>& prices) {
-        memset(dp,-1,sizeof(dp));
-        return doit(prices , 1 , 0);
-    }
+       // tabulation --> bottom up approach 
+       // start from the base case 
+       // copy the recurrence.
+
+       int n = prices.size();
+       vector<vector<int>>dp( n+1 , vector<int>(2,0));
+       dp[n][0] = dp[n][1] =0;
+       for( int index = n-1; index>=0; index--){
+        int profit = 0;
+        for( int buy = 0; buy <= 1; buy++){
+            if(buy){
+                profit = max(-1*prices[index] + dp[index+1][0] , dp[index+1][1]);
+            }
+            else{
+                profit = max(prices[index] + dp[index+1][1] , dp[index+1][0]);
+            }
+            dp[index][buy] = profit;
+        }
+       }
+       return dp[0][1];
+     }
 };
