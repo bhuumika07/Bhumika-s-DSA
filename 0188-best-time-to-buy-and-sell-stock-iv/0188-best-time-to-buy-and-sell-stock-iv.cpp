@@ -14,7 +14,23 @@ public:
         return dp[index][buysLeft] = profit;
     }
     int maxProfit(int k, vector<int>& prices) {
-        memset(dp,-1,sizeof(dp));
-       return doit(prices , k*2 , 0); 
+        // to write tabulation
+        int n = prices.size();
+        int buys = k*2;
+        vector<vector<int>>dp(n+1 , vector<int>(buys+2,0) );
+        for( int index = n-1; index >= 0; index--){
+            for( int buysLeft = buys; buysLeft >= 1; buysLeft--){
+                int profit = 0;
+                if(buysLeft % 2 != 0){
+                profit = max(-1*prices[index] + dp[index+1][buysLeft+1],dp[index+1][buysLeft]);
+                }
+                else{
+                profit = max(prices[index] +dp[index+1][buysLeft+1],dp[index+1][buysLeft]);
+                }   
+                dp[index][buysLeft] = profit;
+            }
+
+        }
+        return dp[0][1];
     }
 };
